@@ -1,5 +1,8 @@
-﻿.music {
-    display: none;
+﻿body {
+    text-align: center;
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/17/19/0e/17190ece702ee15849099107484b08f2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .background {
@@ -7,25 +10,19 @@
     color: black;
 }
 
-body {
-    background-color: white;
-    background-image: url('https://c1.staticflickr.com/7/6090/6088344164_1d8e5a17d2_b.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
+.media {
+    color: white;
+    font-family: Arial;
+    text-transform: lowercase;
 }
+
+.music {
+    display: none;
+}
+
 
 .information {
     color: white; 
-    text-align: center;
     font-family: Arial;
-    -webkit-text-stroke: 5px black;
-}
-
-
-.media {
-    color: white;
-    text-align: center;
-    font-family: Arial;
-    text-transform: lowercase;
+    -webkit-text-stroke: 1px black;
 }
