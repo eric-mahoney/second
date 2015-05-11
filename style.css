@@ -24,3 +24,7 @@ footer {
     opacity: 0.5;
     font-style: oblique;
 }
+
+img {
+    padding-bottom: 1em;
+}
