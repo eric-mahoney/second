@@ -3,26 +3,37 @@
     background-image: url('https://s-media-cache-ak0.pinimg.com/originals/17/19/0e/17190ece702ee15849099107484b08f2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    font-variant: small-caps;
+    color: white;
+}
+
+header {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    background-color: black;
 }
 
 .background {
     height: 100%;
     color: black;
 }
-
 .media {
     color: white;
     font-family: Arial;
-    text-transform: lowercase;
 }
-
 .music {
     display: none;
 }
-
-
 .information {
     color: white; 
     font-family: Arial;
-    -webkit-text-stroke: 1px black;
+}
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: black;
 }
