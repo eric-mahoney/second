@@ -4,22 +4,17 @@
     background-repeat: no-repeat;
     background-size: cover;
     font-variant: small-caps;
+    font-family: Arial;
     color: white;
-}
-
-div#fixedheader {
-    top: 0;
-    left: 0;
-    right: 0;
-
-    background-color: black;
-
 }
 
 .information {
     color: white; 
-    font-family: Arial;
 }
+
+div#contactme {
+}
+
 footer {
     position: absolute;
     right: 0;
