@@ -4,6 +4,7 @@
 
 body {
     background-color: white;
+    background-image: url("gradient.jpeg");
 }
 
 .information {
@@ -13,4 +14,8 @@ body {
 .media {
     color: blue;
     text-align: center;
+}
+
+.header {
+    background-image: url()
 }
