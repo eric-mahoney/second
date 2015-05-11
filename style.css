@@ -2,6 +2,11 @@
     display: none;
 }
 
+.background {
+    height: 100%;
+    color: black;
+}
+
 body {
     background-color: white;
     background-image: url("https://i.imgur.com/PgFOfOJ.jpg");
@@ -11,11 +16,13 @@ body {
     color: black;  
 }
 
+
 .media {
-    color: black;
+    color: white;
     text-align: center;
     font-family: Verdana;
     text-transform: lowercase;
+    background: black;
 }
 
 .header {
