@@ -3,5 +3,9 @@
 }
 
 body {
-    background-color: 0x95815B;
+    background-color: white;
+}
+
+.information {
+    color: black;  
 }
