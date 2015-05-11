@@ -11,6 +11,7 @@ body {
     background-color: white;
     background-image: url('https://c1.staticflickr.com/7/6090/6088344164_1d8e5a17d2_b.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
     height: 100%;
 }
 
