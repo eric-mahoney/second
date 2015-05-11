@@ -19,8 +19,7 @@ body {
     color: white; 
     text-align: center;
     font-family: Arial;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke: 5px black;
 }
 
 
