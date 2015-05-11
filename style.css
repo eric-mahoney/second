@@ -9,7 +9,8 @@
 
 body {
     background-color: white;
-    background-image: url("https://i.imgur.com/PgFOfOJ.jpg");
+    background-image: url("http://funmozar.com/wp-content/uploads/2014/11/New-York-City-Wallpaper-Black-And-White-01.jpg");
+    height: 100%;
 }
 
 .information {
@@ -22,7 +23,6 @@ body {
 .media {
     color: white;
     text-align: center;
-    font-family: Verdana;
+    font-family: Arial;
     text-transform: lowercase;
-    background: black;
 }
