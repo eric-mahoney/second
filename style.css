@@ -1,3 +1,7 @@
 ﻿.music {
     display: none;
 }
+
+body {
+    background-color: yellow;
+}
