@@ -16,7 +16,8 @@ body {
 }
 
 .information {
-    color: black;  
+    color: white;
+    border: solid;  
     text-align: center;
     font-family: Arial;
 }
