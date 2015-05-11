@@ -1,11 +1,15 @@
 ﻿body {
-    background-image: url("http://i3.kym-cdn.com/photos/images/original/000/114/193/1298574546091.jpg");
+    
+}
+
+#header {
+    position: center;
 }
 
 #information {
-    color: blue;
+
 }
 
 #music {
-    display: none;
+
 }
