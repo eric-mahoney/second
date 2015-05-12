@@ -1,2 +1,1 @@
-# myfirstSite
-My first site
+# Infernally.github.io
