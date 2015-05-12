@@ -28,3 +28,7 @@ footer {
 img {
     padding-bottom: 2em;
 }
+
+body > p {
+    font-family: 'Comic Sans MS';
+}
