@@ -38,3 +38,7 @@ img {
 body > p {
     font-family: 'Comic Sans MS';
 }
+
+.music {
+    display: none;
+}
