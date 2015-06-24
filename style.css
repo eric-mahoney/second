@@ -1,0 +1,26 @@
+body {
+	background-color: gray;
+}
+
+#headerbg {
+	background-image: url('https://i.imgur.com/mJVUwCf.jpg');
+	background-repeat: no-repeat;
+	height: 50%;
+	width: 100%;
+	text-align: center;
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: small-caps;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+	font-size: 60px;
+	padding: 100px;
+}
+
+body {
+	background-color: gray;
+}
+
+#funfacts {
+
+}
