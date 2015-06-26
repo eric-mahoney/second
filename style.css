@@ -24,9 +24,10 @@ body {
 }
 
 body {
-	background-color: gray;
+	background-color: white;
 }
 
 #funfacts {
-
+	font-variant: small-caps;
+	font-size: 40px;
 }
